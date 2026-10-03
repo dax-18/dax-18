@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/dax-18">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Dinod%20Randil%20%F0%9F%91%8B" alt="Hi, I&#39;m Dinod Randil 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E8F1F8&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Dinod%20Randil%20%F0%9F%91%8B" alt="Hi, I&#39;m Dinod Randil 👋" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=805&height=44&lines=AI%20%26%20Robotics%20Enthusiast%20%F0%9F%A4%96;Building%20intelligent%20systems%20with%20Python%2C%20Java%20%26%20ML" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=EAF4FF&center=true&vCenter=true&width=805&height=44&lines=AI%20%26%20Robotics%20Enthusiast%20%F0%9F%A4%96;Building%20intelligent%20systems%20with%20Python%2C%20Java%20%26%20ML" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -73,4 +73,4 @@ I'm a Computer Science undergraduate exploring the intersection of Artificial In
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/dax-18">dax-18</a></i></p>
+<p align="center"><i>From <a href="https://github.com/dax-18">dax-18</a></i></p>
